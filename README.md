@@ -2,7 +2,7 @@
 Project_2
 
 ### Project Title
-Numismatic tools for Analyzing Universal Basic Income
+
 
 ### Contributor
 >##### Azaldin Assi, Anjana Chowdiah, Hatem Al-Ghuti 
